@@ -1,0 +1,48 @@
+.silver{
+    color: rgb(224, 213, 213);
+    margin:0;
+}
+.red{
+    color: red;
+    margin: 0;
+}
+
+.firstbackground{
+    background-color: black;
+    background-image: url(img/Background-Car.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin: 0;
+    width: 100%;
+}
+body{
+    background-color: rgb(86, 1, 1);
+}
+.flex{
+    display: flex;
+}
+.gap-top{
+    margin-top:30px ;
+}
+.deveste-8{
+   border: 5px solid;
+   border-color: silver;
+   background-color: silver;
+   text-align: center;
+   font-size: 10px; 
+   
+}
+.krieger{
+   border: 5px solid;
+   border-color: silver;
+   background-color: silver;
+   text-align: center;
+   font-size: 10px; 
+}
+.teserect{
+    border: 5px solid;
+   border-color: silver;
+   background-color: silver;
+   text-align: center;
+   font-size: 10px; 
+}
